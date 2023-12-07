@@ -1,0 +1,44 @@
+ const product=[
+    {
+        id:1,
+        title:'Phone',
+        image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI6gUbDwBZ1xQvmWKGzMieyXVOWS_HwwWAgA&usqp=CAU",
+        price:12000,
+        inStock:500,
+        buyingQuantity:0,
+    },
+    {
+        id:3,
+        title:'LapTop',
+        image:"https://images.jdmagicbox.com/quickquotes/images_main/dell-laptops-27-10-2022-3-272309992-xb49eysb.png",
+        price:12000,
+        inStock:500,
+        buyingQuantity:0,
+    },
+    {
+        id:2,
+        title:'Tab',
+        image:"https://www.lenovo.com/medias/?context=bWFzdGVyfHJvb3R8NTU3MDEwfGltYWdlL3BuZ3xoZmIvaDhmLzEzNzMyMjM5MDE1OTY2LmpwZ3w4ZTM1ZWVhYmYyOGU0MjY1NTUxNmJmMjEzYjlhZmUzZTBlMmNhNGUzZjQ0MDk0ODlhNDFjZGRkMGY3OTRmNTYw",
+        price:12000,
+        inStock:500,
+        buyingQuantity:0,
+    },
+    {
+        id:4,
+        title:'Potato',
+        image:"https://m.media-amazon.com/images/I/313dtY-LOEL._AC_UF1000,1000_QL80_.jpg",
+        price:12000,
+        inStock:500,
+        buyingQuantity:0,
+    },
+    {
+        id:5,
+        title:'Tomato',
+        image:"https://media.fooducate.com/comments/images/547C9613-6257-6EA6-4898-99647B5238C7.jpeg",
+        price:12000,
+        inStock:500,
+        buyingQuantity:0,
+    },
+];
+
+export default product;
